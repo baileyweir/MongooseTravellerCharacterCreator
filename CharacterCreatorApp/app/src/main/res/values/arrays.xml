@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="races_array">
+        <item>"Aslan"</item>
+        <item>"Droyne"</item>
+        <item>"Hivers"</item>
+        <item>"K'kree"</item>
+        <item>"Vargr"</item>
+        <item>"Solomani"</item>
+        <item>"Vilani"</item>
+        <item>"Zhondani"</item>
+        <item>"Imperial Man"</item>
+    </string-array>
+</resources>

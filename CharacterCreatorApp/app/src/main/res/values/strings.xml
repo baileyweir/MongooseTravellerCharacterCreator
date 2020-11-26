@@ -1,3 +1,4 @@
+
 <resources>
     <string name="app_name">CharacterCreatorApp</string>
     <string name="mongoose_title">Mongoose Traveller</string>
@@ -5,4 +6,6 @@
     <string name="create_new_char">Create a New Character</string>
     <string name="old_char">View Old Character</string>
     <string name="traveller_logo">Traveller Logo</string>
+    <string name="title_activity_create_new_char">CreateNewChar</string>
+
 </resources>
